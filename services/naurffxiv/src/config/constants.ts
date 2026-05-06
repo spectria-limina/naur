@@ -88,7 +88,7 @@ export const extremeList = [
   {
     title: "The Unmaking",
     url: "/extreme/the-unmaking",
-    img: "/images/thumbnails/Hidden.avif",
+    img: "/images/thumbnails/extreme/dt-ex8.avif",
     alt: "The Unmaking",
   },
   {
